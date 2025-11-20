@@ -14,7 +14,7 @@ export const LandingHeader: React.FC = () => {
           />
         </div>
         <WhatsappCtaButton className="hidden md:flex">
-          Quero Ver a IA em Ação
+          Agendar Demonstração
         </WhatsappCtaButton>
       </div>
     </header>

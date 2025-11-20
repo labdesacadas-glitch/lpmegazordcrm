@@ -106,7 +106,7 @@ export const PricingSection: React.FC = () => {
               </CardContent>
               <CardFooter>
                 <WhatsappCtaButton className="w-full">
-                  Ativar Plano Agora
+                  Agendar Demonstração
                 </WhatsappCtaButton>
               </CardFooter>
             </Card>

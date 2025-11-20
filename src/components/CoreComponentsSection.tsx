@@ -76,7 +76,7 @@ export const CoreComponentsSection: React.FC = () => {
         </div>
 
         <WhatsappCtaButton className="mt-16">
-          Quero Minha Demonstração
+          Agendar Demonstração
         </WhatsappCtaButton>
       </div>
     </section>

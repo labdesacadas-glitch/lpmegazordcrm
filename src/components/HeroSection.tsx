@@ -35,7 +35,7 @@ export const HeroSection: React.FC = () => {
         {/* CTA Melhorado */}
         <WhatsappCtaButton className="mb-12">
           <Zap className="mr-2 h-5 w-5" />
-          Quero Ver a IA em Ação
+          Agendar Demonstração
         </WhatsappCtaButton>
 
         {/* Prova Social Imediata (Trust Badges) */}
