@@ -14,7 +14,7 @@ interface Plan {
 const plans: Plan[] = [
   {
     name: "Megazord com Aceleração Comercial Individual",
-    monthlyPrice: "R$ 1.700",
+    monthlyPrice: "Sob Consulta",
     features: [
       "Tudo do Plano Megazord",
       "Aceleração Comercial Individual:",
@@ -26,7 +26,7 @@ const plans: Plan[] = [
   },
   {
     name: "Plano Megazord (Recomendado)",
-    monthlyPrice: "R$ 297",
+    monthlyPrice: "Sob Consulta",
     features: [
       "IA SDR Sênior™",
       "Pipeline Vivo™",
